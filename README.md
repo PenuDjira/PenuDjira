@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DeprisonArianto
-- 👀 I’m interested in Python, AI, ML, DL, Arduino and IoT
-- 🌱 I’m currently learning Python, Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me ...
+- 👀 I’m focus on Embedded System with STM32 Ecosystem 
+- 🌱 I’m currently C Programming.
+- 📫 Reach me with link in Bio.
 
 <!---
 DeprisonArianto/DeprisonArianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
