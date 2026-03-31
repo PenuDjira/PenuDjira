@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PenuDjira
 - 👀 I’m focus on Embedded System with STM32 Ecosystem 
-- 🌱 I’m currently C Programming.
+- 🌱 I’m currently learning Embedded C Programming.
 - 📫 Reach me with link in Bio.
 
 <!---
