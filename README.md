@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @PenuDjira
-- 👀 I’m focus on Embedded System with STM32 Ecosystem 
-- 🌱 I’m currently learning Embedded C Programming.
-- 📫 Reach me with link in Bio.
+Focused on Low-Level Embedded C & Bare-Metal STM32 Development. Mastering the register-level architecture to build high-reliability systems.
 
 <!---
 PenuDjira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
